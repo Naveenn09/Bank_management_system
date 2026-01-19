@@ -35,17 +35,29 @@ Platform: Linux
 C_MINIPROJECT/
 
 ├── main.c
+
 ├── create.c
+
 ├── deposit.c
+
 ├── withdraw.c
+
 ├── transfer.c
+
 ├── search.c
+
 ├── display.c
+
 ├── history.c
+
 ├── delete.c
+
 ├── file.c
+
 ├── Makefile
+
 ├── .gitignore
+
 └── README.md
 
 🚀 How to Compile & Run
@@ -64,9 +76,13 @@ Follow the menu-driven interface to perform banking operations.
 
 🖥 Example Usage
 Enter choice: c
+
 Enter Name: Naveen
+
 Enter Phone: 5670984598
-Account created successfully! AccNo: 100
+
+Account created successfully!
+AccNo: 100
 
 📌 Notes
 
