@@ -33,6 +33,7 @@ Platform: Linux
 
 📂 Project Structure
 C_MINIPROJECT/
+
 ├── main.c
 ├── create.c
 ├── deposit.c
@@ -64,7 +65,7 @@ Follow the menu-driven interface to perform banking operations.
 🖥 Example Usage
 Enter choice: c
 Enter Name: Naveen
-Enter Phone: 9381514867
+Enter Phone: 5670984598
 Account created successfully! AccNo: 100
 
 📌 Notes
